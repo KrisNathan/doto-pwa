@@ -1,6 +1,6 @@
-# To Do Progressive Web App
+# Doto
 
-This is a simple To Do app. The objective of this app is to be simple and privacy friendly while providing a sync feature.
+This is a simple task management app. The objective of this app is to be simple and privacy friendly while providing a sync feature.
 
 ## Sync
 
